@@ -68,4 +68,4 @@ Created Sentinel workbook to visualize attack source locations globally.
   
 ## Screenshots
 
-![System Architecture](screenshots/Honeypot_Architecture)
+![System Architecture](screenshots/Honeypot_Architecture.png)
