@@ -69,3 +69,4 @@ Created Sentinel workbook to visualize attack source locations globally.
 ## Screenshots
 
 ![System-Architecture](screenshots/Honeypot-architetcture.png)
+![Global-Attack-map](screenshots/attack-global-map.png)
