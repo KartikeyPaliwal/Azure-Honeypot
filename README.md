@@ -6,6 +6,11 @@ This project demonstrates deployment of a cloud-based honeypot in Microsoft Azur
 ## Architecture
 Internet → Azure VM → Windows Security Logs → Log Analytics Workspace → Microsoft Sentinel → GeoIP Enrichment → Attack Map
 
+## Screenshots
+
+![Global-Attack-map](screenshots/attack-global-map.png)
+![System-Architecture](screenshots/Honeypot-architetcture.png)
+
 ## Technologies Used
 - Microsoft Azure
 - Virtual Machine (Windows)
@@ -66,7 +71,4 @@ Created Sentinel workbook to visualize attack source locations globally.
 - Create incident playbooks
 - Integrate threat intelligence feeds
   
-## Screenshots
 
-![System-Architecture](screenshots/Honeypot-architetcture.png)
-![Global-Attack-map](screenshots/attack-global-map.png)
