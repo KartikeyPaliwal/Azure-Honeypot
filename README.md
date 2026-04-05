@@ -65,3 +65,7 @@ Created Sentinel workbook to visualize attack source locations globally.
 - Add automated alert rules
 - Create incident playbooks
 - Integrate threat intelligence feeds
+  
+## Screenshots
+
+![System Architecture](screenshots/Honeypot_Architecture)
